@@ -1,11 +1,11 @@
-/.gradle
-/.idea
+.gradle
+.idea
 /logs
 *.iml
 *.ipr
 *.iws
 
-/build
-/out
+build
+out
 
 *-local.yml
