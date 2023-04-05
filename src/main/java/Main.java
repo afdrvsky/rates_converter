@@ -4,6 +4,6 @@ public class Main {
         HttpRatesRequest httpRatesRequest = new HttpRatesRequest();
         httpRatesRequest.parseXmlRates();
         httpRatesRequest.convertToRouble("100", "CHF");
-        httpRatesRequest.convertFromRouble("250000", "BYN");
+        httpRatesRequest.convertFromRouble("30000", "BYN");
     }
 }
